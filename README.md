@@ -37,13 +37,13 @@ La estadística descriptiva es una de la herramientas fundamentales para cualqui
 - ¿Cómo usar deep note? - [code004.ipynb](codes/code004.ipynb), [code004.pdf](codes/pdfs/code004.pdf).
 - Tipos de datos - [code005.ipynb](codes/code005.ipynb), [code005.pdf](codes/pdfs/code005.pdf).
 - Medidas de tendencia central - [code006.ipynb](codes/code006.ipynb), [code006.pdf](codes/pdfs/code006.pdf).
-- Méfora de Bill Gates en un bar - [code007.ipynb](codes/code007.ipynb), [code007.pdf](codes/pdfs/code007.pdf).
-- Medidas de tendencia central en Python - [code008.ipynb](codes/code008.ipynb), [code008.pdf](codes/pdfs/code008.pdf).
+- Métafora de Bill Gates en un bar - [code007.ipynb](codes/code007.ipynb), [code007.pdf](codes/pdfs/code007.pdf).
+- Medidas de tendencia central en Python [Reto] - [code008.ipynb](codes/code008.ipynb), [code008.pdf](codes/pdfs/code008.pdf).
 - Medidas de dispersión - [code009.ipynb](codes/code009.ipynb), [code009.pdf](codes/pdfs/code009.pdf).
 - Desviación estándar - [code010.ipynb](codes/code010.ipynb), [code010.pdf](codes/pdfs/code010.pdf).
 - Medidas de dispersión en Python - [code011.ipynb](codes/code011.ipynb), [code011.pdf](codes/pdfs/code011.pdf).
-- Exploración visual de datos - [Extra01.ipynb](codes/extra01.ipynb), [Extra01.pdf](codes/pdfs/extra01.pdf)
-- Diagramas de dispersión en el análisis de datos - [code012.ipynb](codes/code012.ipynb), [code012.pdf](codes/pdfs/code012.pdf).
+- Exploración visual de datos - [Extra01.ipynb](codes/Extra01.ipynb), [Extra01.pdf](codes/pdfs/Extra01.pdf)
+- Diagramas de dispersión en el análisis de datos [Reto]- [code012.ipynb](codes/code012.ipynb), [code012.pdf](codes/pdfs/code012.pdf).
 
 ### Estadística en la ingesta de datos
 
@@ -51,7 +51,7 @@ La estadística descriptiva es una de la herramientas fundamentales para cualqui
 - Transformación no lineal - [code014.ipynb](codes/code014.ipynb), [code014.pdf](codes/pdfs/code014.pdf).
 - Procesamiento de datos numéricos en Python - [code015.ipynb](codes/code015.ipynb), [code015.pdf](codes/pdfs/code015.pdf).
 - Pipelines de procesamiento para variables categóricas - [code016.ipynb](codes/code016.ipynb), [code016.pdf](codes/pdfs/code016.pdf)
-- Procesamiento para variables categgóricas con Python - [code017.ipynb](codes/code017.ipynb), [code017.pdf](codes/pdfs/code017.pdf)
+- Procesamiento para variables categóricas con Python - [code017.ipynb](codes/code017.ipynb), [code017.pdf](codes/pdfs/code017.pdf)
 - Correlaciones - [code018.ipynb](codes/code018.ipynb), [code018.pdf](codes/pdfs/code018.pdf)
 - Matriz de covarianza - [code019.ipynb](codes/code019.ipynb), [code019.pdf](codes/pdfs/code019.pdf)
 
