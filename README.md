@@ -49,7 +49,7 @@ La estadística descriptiva es una de la herramientas fundamentales para cualqui
 
 - Pipelines de procesamiento - [code013.ipynb](codes/code013.ipynb), [code013.pdf](codes/pdfs/code013.pdf).
 - Transformación no lineal - [code014.ipynb](codes/code014.ipynb), [code014.pdf](codes/pdfs/code014.pdf).
-- Procesamiento de datos numéricos en Python - [code015.ipynb](codes/code015.ipynb), [code015.pdf](codes/pdfs/code015.pdf).
+- Procesamiento de datos numéricos en Python [Reto] - [code015.ipynb](codes/code015.ipynb), [code015.pdf](codes/pdfs/code015.pdf).
 - Pipelines de procesamiento para variables categóricas - [code016.ipynb](codes/code016.ipynb), [code016.pdf](codes/pdfs/code016.pdf)
 - Procesamiento para variables categóricas con Python - [code017.ipynb](codes/code017.ipynb), [code017.pdf](codes/pdfs/code017.pdf)
 - Correlaciones - [code018.ipynb](codes/code018.ipynb), [code018.pdf](codes/pdfs/code018.pdf)
