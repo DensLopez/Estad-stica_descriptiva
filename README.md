@@ -64,6 +64,6 @@ La estadística descriptiva es una de la herramientas fundamentales para cualqui
 ### Despedida
 
 - Conclusiones - [code023.ipynb](codes/code023.ipynb), [code023.pdf](codes/pdfs/code023.pdf).
-- Examen final - [Examn.pdf](codes/pdfs/Examen.pdf)
+- Examen final - [Examen.pdf](codes/pdfs/Examen.pdf)
 
 <br />
